@@ -321,8 +321,40 @@ python train_qapinn.py --all
 
 ---
 
+**Links TO PPT(.pdf) and Technical Report**
+
+- PPT: https://drive.google.com/file/d/1unGgVk5aSm9BKsBbmjR09rx9FhjSiWxp/view?usp=sharing
+- Technical Report: https://drive.google.com/file/d/1My6IP5xNpZPlPXSVt6OH4_RJnXpWLEq_/view?usp=sharing
+
+---
 ## 👥 Authors & Acknowledgments
 
 - **WISER Global Quantum+AI Program 2026**
 - **BQP (BosonQ Psi)**
 - **GitHub Repository**: https://github.com/b1ktc6sr8d/BQP_CPINNvsQAPINN.git
+
+---
+**TEAM DETAILS**
+- PRIMARY CONTACT : **KOTA BALA CHANDU**(PROJECT LEAD)
+
+  Email ID: kotabalachandu23@gmail.com
+
+  Institution: Andhra University College of Engineering (A)
+
+  Country: India
+
+- TEAM MEMBER 2 : **ALLU BALAJI VISHAL** (RESEARCH LEAD)
+
+  Email ID: balajivishal.allu@gmail.com
+
+  Institution: Andhra University College of Engineering (A)
+
+  Country: India
+
+- TEAM MEMBER 3 : DEVENDRA RONGALI (TECHNICAL LEAD)
+
+  Email ID: kotabalachandu23@gmail.com
+
+  Institution: Andhra University College of Engineering (A)
+
+  Country: India

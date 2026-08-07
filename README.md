@@ -229,7 +229,7 @@ BQP_CPINNvsQAPINN/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/b1ktc6sr8d/BQP_CPINNvsQAPINN
+git clone https://github.com/b1ktc6sr8d/BQP_CPINNvsQAPINN.git
 cd bqp_cpinnvsqapinn
 ```
 
@@ -325,4 +325,4 @@ python train_qapinn.py --all
 
 - **WISER Global Quantum+AI Program 2026**
 - **BQP (BosonQ Psi)**
-- **GitHub Repository**: https://github.com/b1ktc6sr8d/BQP_CPINNvsQAPINN
+- **GitHub Repository**: https://github.com/b1ktc6sr8d/BQP_CPINNvsQAPINN.git

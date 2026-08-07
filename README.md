@@ -353,7 +353,7 @@ python train_qapinn.py --all
 
 - TEAM MEMBER 3 : DEVENDRA RONGALI (TECHNICAL LEAD)
 
-  Email ID: kotabalachandu23@gmail.com
+  Email ID: devendrarongali09@gmail.com
 
   Institution: Andhra University College of Engineering (A)
 
